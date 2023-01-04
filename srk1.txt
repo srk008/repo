@@ -1,0 +1,52 @@
+ These is Url link: https://hastebin.com/qiwiligewi.xml
+
+===============================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to CodeHelp</h1>
+    <h2>Contact Us Form</h2>
+    <form >
+      Name:  <input type="text" placeholder="Enter Your Name"><br>
+      Email: <input type="email" placeholder="Enter Your Email"><br>
+      Contact Number :<input type="number" placeholder="Enter Your Contact No.">
+    <br>Gender: <input type="radio" value="Male" >Male
+      <input type="radio" value="Male" >Female<br>
+      Date Of Brith: <input type="datetime-local" placeholder="dd/mm/yyyy"><br>
+      Rating: <input type="checkbox" value="1" >1
+      <input type="checkbox" value="2" >2
+      <input type="checkbox" value="3" >3
+      <input type="checkbox" value="4" >4
+      <input type="checkbox" value="5" >5
+
+   <p>Enter your Message</p>
+<textarea name="textarea" maxlength="50" minlength="50">
+    Write Somthing Here...
+
+</textarea>
+
+</div>
+
+
+   <br>
+   <input type="submit" value="submit">
+   <input type="reset" value="Reset"><br>
+   <span>
+    <img src="https://thumbs.dreamstime.com/b/facebook-whatsapp-twitter-instagram-youtube-skype-viber-telegram-logos-logo-vector-illustration-icons-social-media-set-color-166953641.jpg" width="100" height="100"></img>
+   <!-- </span>
+   <span>
+    <img src="https://thumbs.dreamstime.com/b/facebook-whatsapp-twitter-instagram-youtube-skype-viber-telegram-logos-logo-vector-illustration-icons-social-media-set-color-166953641.jpg"></=>
+   </span>
+   <span>
+    <img src="https://thumbs.dreamstime.com/b/facebook-whatsapp-twitter-instagram-youtube-skype-viber-telegram-logos-logo-vector-illustration-icons-social-media-set-color-166953641.jpg"></=>
+   </span> -->
+</form>
+</body>
+</html>
